@@ -111,3 +111,9 @@ section img
     transform: translateY(100px);
 
 }
+
+#btn:hover
+{
+    background: #fff;
+    color: black;
+}

@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+padding: 100px 50px 500px;
+
+
+<ul>
+                <li><p>
+                  What is CafeNeatza?
+                </p></li>
+                <li><p>
+                  What does CafeNeatza do?
+                </p></li>
+                <li><p>
+                  Who founded CafeNeatza? And why ?
+                </p></li>
+                <li><p>
+                  What is the plan for the future?
+                </p></li>
+                <li><p>
+                  What is the most purchased product?
+                </p></li>
+              </ul></h2>
+
+
+              CafeNeatza is a website for coffee?! NO, CafeNeatza is a lifestyle that was born in 2022 from the desire of CEO Matei Alexandru to create a community where every person is respected and has the best experience! We offer the best quality coffee on the market and bring it to the community at an unbeatable price! In "our pantry" we have different varieties of coffee, such as: coffee from Vietnam, coffee from Ethiopia, coffee from Argentina, but also some own blends"
